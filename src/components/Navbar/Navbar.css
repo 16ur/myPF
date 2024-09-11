@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.amLogoClass {
+  height: 70%;
+  width: 30%;
+  margin-left: 10px;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  height: 10em;
+  margin: 0 auto;
+  max-width: 1100px;
+  align-items: center;
+}
+
+.navbarRight {
+  list-style-type: none;
+  display: flex;
+  font-size: 1.1rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.navbarRight li {
+  margin-right: 1rem;
+}
+.navbarRight a {
+  position: relative;
+  text-decoration: none;
+  color: white;
+}
+
+.navbarRight a::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  display: block;
+  margin-top: 3px;
+  right: 0;
+  background: white;
+  transition: width 0.2s ease, left 0.2s ease;
+}
+
+.navbarRight a:hover::after {
+  width: 100%;
+  left: 0;
+}

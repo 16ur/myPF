@@ -1,0 +1,44 @@
+.coreContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.pdpLogoClass {
+  width: 250px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.textContainer {
+  color: white;
+  flex-direction: column;
+}
+
+.coreContentTitle {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  margin: 0;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+.coreContentSubTitle {
+  font-size: 1.2rem;
+  margin-top: 25px;
+}
+
+.icons {
+  margin-right: 12px;
+  font-size: 1.6rem;
+}
