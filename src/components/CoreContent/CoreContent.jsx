@@ -39,7 +39,7 @@ function CoreContent() {
                     xmlns="http://www.w3.org/2000/svg"
                     width="40"
                     height="40"
-                    fill="currentColor"
+                    fill="#ecdfcc"
                     viewBox="0 0 24 24"
                   >
                     <path
@@ -62,7 +62,7 @@ function CoreContent() {
                     xmlns="http://www.w3.org/2000/svg"
                     width="40"
                     height="40"
-                    fill="currentColor"
+                    fill="#ecdfcc"
                     viewBox="0 0 24 24"
                   >
                     <path
