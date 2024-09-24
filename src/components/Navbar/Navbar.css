@@ -32,7 +32,12 @@ body {
 .navbarRight a {
   position: relative;
   text-decoration: none;
+  color: #ecdfcc;
+}
+
+.navbarRight a:hover {
   color: white;
+  cursor: pointer;
 }
 
 .navbarRight a::after {

@@ -13,7 +13,6 @@ function Navbar() {
           <li>
             <a href="/about">about</a>
           </li>
-
           <li>
             <a href="/parcours">parcours</a>
           </li>

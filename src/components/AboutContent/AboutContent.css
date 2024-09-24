@@ -1,0 +1,23 @@
+.aboutContent {
+  color: white;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-top: 20rem;
+}
+
+.aboutContent h1 {
+  font-weight: 500;
+}
+
+.aboutText {
+  color: white;
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  border-radius: 10px;
+}
