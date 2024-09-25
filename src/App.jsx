@@ -11,7 +11,6 @@ function App() {
       <Analytics />
       <Navbar />
       <CoreContent />
-      <AboutContent />
     </>
   );
 }
