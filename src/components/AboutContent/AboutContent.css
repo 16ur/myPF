@@ -1,9 +1,10 @@
 .aboutContent {
+  width: 100%;
   color: white;
-  display: flex;
+  display: block;
   justify-content: center;
-  position: relative;
-  margin-top: 20rem;
+  text-align: center;
+  background-color: #161616;
 }
 
 .aboutContent h1 {

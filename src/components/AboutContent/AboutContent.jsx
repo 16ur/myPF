@@ -5,12 +5,12 @@ function AboutContent() {
     <div>
       <div className="aboutContent">
         <h1>À propos de moi</h1>
-      </div>
-      <div className="aboutText">
-        <p>
-          Je suis un développeur web fullstack, passionné par les nouvelles
-          technologies et les applications web modernes.
-        </p>
+        <div className="aboutText">
+          <p>
+            Je suis un développeur web fullstack, passionné par les nouvelles
+            technologies et les applications web modernes.
+          </p>
+        </div>
       </div>
     </div>
   );
