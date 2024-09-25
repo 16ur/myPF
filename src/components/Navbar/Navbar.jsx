@@ -1,5 +1,5 @@
 import "./Navbar.css";
-import amLogo from "../../assets/am-logo.png";
+import amLogo from "../../assets/logo2.png";
 function Navbar() {
   return (
     <>

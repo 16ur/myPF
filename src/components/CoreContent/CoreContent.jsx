@@ -24,7 +24,7 @@ function CoreContent() {
             <h1 className="coreContentTitle">
               Hello, je suis <span className="colorText">Axel Manguian.</span>
             </h1>
-            <h2 className="statusEtude">Étudiant en BUT Informatique</h2>
+            <h2 className="statusEtude">Développeur Web Full-Stack</h2>
           </div>
           <div className="icons">
             <ul className="myIcons">
